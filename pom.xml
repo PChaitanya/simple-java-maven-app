@@ -21,7 +21,7 @@
   <build>
     <packaging>jar</packaging>
  <build>
-   <finalName>my-app-1.0-SNAPSHOT.jar</finalName>
+   <finalName>my-app-1.0-SNAPSHOT</finalName>
  </build>
     <pluginManagement>
       <plugins>
