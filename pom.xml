@@ -19,10 +19,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <build>
-    <packaging>jar</packaging>
- <build>
    <finalName>my-app-1.0-SNAPSHOT</finalName>
- </build>
     <pluginManagement>
       <plugins>
         <plugin>
